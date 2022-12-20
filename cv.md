@@ -10,20 +10,9 @@
 *   Telegram: [@KateLukyanava](https://t.me/KateLukyanava)
 
 ## Summary
-in progress
 
 ## Skills
-*   HTML5
-*   CSS3
-*   JS Basic
-*   Git, GitHub
-*   Figma
 
 ## Education
-*   Belarusian State University
-*   IPMA ICR4 and IPMA ICB4
-    *(UPMA, IPMA level D)*
     
 ## Languages
-*   Russian: native
-*   English: B1
