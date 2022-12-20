@@ -1,5 +1,4 @@
 # Kate Lukyanava
-
 ## Junior frontend developer
 
 
