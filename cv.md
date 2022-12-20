@@ -28,7 +28,7 @@ in progress
 
 *   Belarusian State University
 *   IPMA ICR4 and IPMA ICB4
-    *UPMA, IPMA level D*
+    *(UPMA, IPMA level D)*
     
 
 ## Languages
