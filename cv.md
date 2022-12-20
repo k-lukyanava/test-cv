@@ -1,5 +1,4 @@
 # Kate Lukyanava
----
 
 ## Junior frontend developer
 
@@ -7,7 +6,6 @@
 * * *
 
 ## Contacts
----
 
 *   Location: Georgia, Tbilisi
 *   E-mail: [kate.lukyanava@gmail.com](mailto:kate.lukyanava@gmail.com)
@@ -15,12 +13,10 @@
 *   Telegram: [@KateLukyanava](https://t.me/KateLukyanava)
 
 ## Summary
----
 
 in progress
 
 ## Skills
----
 
 *   HTML5
 *   CSS3
@@ -29,7 +25,6 @@ in progress
 *   Figma
 
 ## Education
----
 
 *   Belarusian State University
 *   IPMA ICR4 and IPMA ICB4
@@ -38,7 +33,6 @@ in progress
     
 
 ## Languages
----
 
 *   Russian: native
 *   English: B1
