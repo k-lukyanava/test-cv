@@ -1,26 +1,26 @@
-Kate Lukyanava
--------
+# Kate Lukyanava
+---
 
-Junior frontend developer
+## Junior frontend developer
 
 
 * * *
 
-Contacts
---------
+## Contacts
+---
 
 *   Location: Georgia, Tbilisi
 *   E-mail: [kate.lukyanava@gmail.com](mailto:kate.lukyanava@gmail.com)
 *   GitHub: [katsia-l](https://github.com/katsia-l)
 *   Telegram: [@KateLukyanava](https://t.me/KateLukyanava)
 
-Summary
--------
+## Summary
+---
 
-I have a passion for this work. I believe that passion leads to results
+in progress
 
-Skills
-------
+## Skills
+---
 
 *   HTML5
 *   CSS3
@@ -28,8 +28,8 @@ Skills
 *   Git, GitHub
 *   Figma
 
-Education
----------
+## Education
+---
 
 *   Belarusian State University
 *   IPMA ICR4 and IPMA ICB4
@@ -37,8 +37,8 @@ Education
     UPMA, IPMA level D
     
 
-Languages
----------
+## Languages
+---
 
 *   Russian: native
 *   English: B1
